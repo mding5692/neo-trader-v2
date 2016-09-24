@@ -1,12 +1,12 @@
 # neo-trader-v2
-
-Develop Environment
-
-prerequirement:
-Python 2.7.6
-pip
-virtualenv
-
-in the local fold:
-. env/bin/actiavte                                        //activate the env
-pip install -r config.txt
+</br>
+Develop Environment</br>
+</br>
+prerequirement:</br>
+Python 2.7.6,</br>
+pip,</br>
+virtualenv,</br>
+</br>
+in the local fold:</br>
+. env/bin/actiavte &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                      //activate the env</br>
+pip install -r config.txt</br>
